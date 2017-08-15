@@ -1,0 +1,146 @@
+
+   后台管理系统：http://dev.ichsy.com/
+-----------------------------------------------
+沙皮狗测试环境http://dog.lacues.cn/
+http://dog.lacues.cn/ActCheckIn/app.html?token=eb77708c0338431fb685c201cbe6ff916d56944ee3b347ecba43abdf50c3548a
+//这个是测试环境的文件路径  ——\\172.18.19.166\webui\ActCheckin
+IP：//172.18.19.166
+USER：caipiao
+passwd：ichsy@2015   
+.......................
+一元夺宝路径——
+1.huijiayou.cn
+http://1.test.huijiayou.cn/          准线上地址
+http://dog.lacues.cn/Account/login.html?t=1463387359442
+15001217168 15801658092   123456
+PC：http:
+//172.18.19.166:8099/
+PC文件路径：
+\\172.18.19.166\hjy_ego_web
+----------------------------------------------
+IP：    background: rgba(0,0,0,.2);
+
+\\172.18.19.166\wxshop //测试环境文件地址
+测试环境：user：15801658092 psd：111111
+贾楠的：15210314790 123456   13211111125   123456
+13666666666 123456
+Wap商城（生产环境）http://s.jyh.com/           http://m.huijiayou.cn/
+Wap商城（测试环境）http://wx.lacues.cn/
+http://172.18.19.166:8090/  或者 test-wx.huijiayou.cn
+////////////
+惠家友PC（生产环境）：http://www.huijiayou.cn/Index.html?_r=0.4220215841753787
+惠PC测试（测试环境）：http://web.lacues.cn/
+
+海淀区人力资源和社会保障局
+
+-----------------------------------------------
+http://172.18.19.166:8010/Pages/default.aspx
+jyh-zhangwei
+123456
+
+-------------
+http://172.18.19.166:8002/Login.htm
+admin
+111111
+-------------
+\\172.18.19.166\net_crm
+\\172.18.19.166\消息网关管理后台
+
+*******************************
+大陆桥：
+s.jyh.com/d_g/
+
+
+饭好了的测试服务器地址，改这里就可以了
+http://fan.test.lacues.cn/
+\\172.18.19.166\fan_shop
+给你一个测试账号 15210387370  密码123321
+线上：http://wx.5wjs.com/
+
+技术部-刘旭萌 2016/11/9 17:23:54
+你试试这个商品编号:58016100270
+*********************************
+
+点点：http://www.ecomapit.com/
+http://ddhj.eplans.cn/projectdetail.html?code=LP161004101528&t=0.04041061573661864
+15810000001 
+111111
+==================================================
+http://gitlab.qhw.srnpr.com/
+
+fan_shop 项目权限账号：
+userName:wangzhaoan ; passWord:yunhe2018;
+{在tortise右键settingGit的edit global.gitconfig编辑设置新账号}
+===================
+
+==========================
+鉴定：
+http://jd.lacues.cn/%E9%A6%96%E9%A1%B5.html
+http://test-jd.huijiayou.cn/
+\\172.18.19.166\Webs\JD_web
+
+
+
+==========================
++++++++++++++++++++++++++++++++++++++++
+**************************************
+测试环境的https环境更新地址
+支付网关接口
+https://pay.lacues.cn/createorder/
+支付网关管理后台
+https://pay-admin.lacues.cn/pages/
+消息网关（微信等）接口地址
+
+https://wx-gate.lacues.cn/Merchant/ReceiveMerchantRequest.aspx
+消息网关（短信）接口地址
+https://sms-gate.lacues.cn/Merchant/ReceiveMerchantRequest.aspx
+消息网关管理后台
+https://a.lacues.cn/Pages/
+微信商城：
+https://wx.lacues.cn
+
+在需要测试的机器上安装
+http://wx.lacues.cn/ca.crt
+这个ca根证书，要把证书导入（安装）到“受信任的根证书颁发机构”中，即可在IE，谷歌，微信等默认使用系统证书的浏览器正常使用。
+
+金山云*******************************
+http://www.ksyun.com/
+账号：zhaoan2018@163.com
+password:Yunhe2018
+
+-------------------------
+首页、分类页下面的的问题找小麋鹿｀～购物车，我的都找小涵。
+--------------------------
+
+===============================
+OA 无密码
+name:wangzhaoan
+psd :yunhe2018
+
+*******************
+email: wangzhaoan/Yunhe2018
+********************
+OA.huijiayou.CN
+各位同学的用户名为 姓名全拼 密码为Hjy@5977 登陆后请自行更改密码。
+=================================
+禅道：wangza ：Wang.za@2017
+
+微信小程序开发
+======================
+https://mp.weixin.qq.com/debug/wxadoc/dev/framework/view/wxss.html?t=2017112
+==========
+https://mp.weixin.qq.com/debug/wxadoc/dev/framework/view/?t=2017112
+======================
+url(https://image-mall.huijiayou.cn/hjyshop/img/ico-jt2.png)
+******************************
+所谓"构造函数"，其实就是一个普通函数，但是内部使用了this变量。对构造函数使用new运算符，就能生成实例，并且this变量会绑定在实例对象上。
+****************************
+
+-----------------166访问密码-------------------
+a1d2m3inistrator
+ow98qi7mV*lQ%o4tYHi*[sQv8^!of)(.
+
+caipiao
+.gUvhW9cnh2%L3BV%weoAGg!CJIrm=T,
+--------------------------------------------
+git登陆用户名密码：wangzhanao，密码是yunhe2018；
